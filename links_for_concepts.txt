@@ -2,6 +2,62 @@
 
 
 
+<==ALL--IN--ONE==>
+
+https://github.com/mainkoon81/Study-09-MachineLearning-B
+
+<==neuralNet==>
+
+https://github.com/ngailapdi/MNIST_numpy/blob/master/MNIST_SGD_Numpy.ipynb
+
+
+
+<==GD==>
+https://github.com/PierreColombo/GradientDescentAlgorithms/blob/master/GradientAlgorithms.ipynb
+https://github.com/Niranjankumar-c/GradientDescent_Implementation
+
+<==SGD==>
+
+https://wiseodd.github.io/techblog/2016/06/22/nn-optimization/
+https://github.com/uclaml/Padam
+
+
+<==cross-entropy==>
+https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
