@@ -15,6 +15,12 @@ https://github.com/ngailapdi/MNIST_numpy/blob/master/MNIST_SGD_Numpy.ipynb
 <==GD==>
 https://github.com/PierreColombo/GradientDescentAlgorithms/blob/master/GradientAlgorithms.ipynb
 https://github.com/Niranjankumar-c/GradientDescent_Implementation
+https://github.com/antonio-f/Programming-assignment-Linear-models-Optimization-/blob/master/Programming%20assignment%20(Linear%20models%2C%20Optimization)/week01_pa.ipynb
+
+
+
+
+
 
 <==SGD==>
 
